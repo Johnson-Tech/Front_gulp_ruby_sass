@@ -100,8 +100,7 @@ jspm_packages
 # Custom
 .idea
 *.swp
-package.json
-gulpfile.js
+
 .sass-cache
 
 build/
